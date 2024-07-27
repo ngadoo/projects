@@ -1,8 +1,0 @@
-banh mi: $30000 at 8:23 day 18/2/2023
-mi van than: $100000 at 12:34 day 18/2/2023
-cafe: $50000 at 19:48 day 18/2/2023
-cafe: $50000 at 16:3 day 19/2/2023
-banh mi: $100000 at 1:11 day 20/2/2023
-tra: $60000 at 14:16 day 20/2/2023
-banh ga: $60000 at 19:31 day 20/2/2023
-
